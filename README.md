@@ -1,3 +1,8 @@
+![Screenshot_1692575968](https://github.com/oguzhanyavass/NewsApp/assets/120180879/cc833fdc-26e6-4be1-b93a-1398e91f138b)
+![Screenshot_1692575939](https://github.com/oguzhanyavass/NewsApp/assets/120180879/43b8c0eb-e0e6-4826-9fd5-d68754fc88d5)
+![Screenshot_1692575950](https://github.com/oguzhanyavass/NewsApp/assets/120180879/ca1c876a-0b8e-4e1f-9b2c-03bcba9ecf5c)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
